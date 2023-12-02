@@ -79,7 +79,7 @@ body {
 
 .header-links:hover,
 .header-links:focus {
-  color: var(--accent-color);
+  color: #404bbf;
 }
 
 .header-address {
@@ -114,7 +114,6 @@ body {
 
 .main-button {
   font-size: 16px;
-  font-family: Roboto;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.64px;
