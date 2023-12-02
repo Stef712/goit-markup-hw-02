@@ -121,6 +121,7 @@ body {
   color: #ffffff;
   cursor: pointer;
   background-color: var(--accent-color);
+  font-family: "Roboto", sans-serif;
 }
 
 .main-button:hover,
