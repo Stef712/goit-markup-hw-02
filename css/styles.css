@@ -83,7 +83,7 @@ body {
 }
 
 .address {
-  color: var(--text-color);
+  color: #434455;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.32px;
@@ -93,7 +93,7 @@ body {
 
 .address:hover,
 .address:focus {
-  color: var(--accent-color);
+  color: #404bbf;
 }
 
 /* Main Section */
