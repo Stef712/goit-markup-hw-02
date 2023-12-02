@@ -149,6 +149,7 @@ body {
   color: var(--accent-color);
   background-color: #f4f4fd;
   cursor: pointer;
+  font-family: "Roboto", sans-serif;
 }
 
 .portfolio-buttons:hover,
